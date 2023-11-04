@@ -1,3 +1,3 @@
 # HUST
 
-hello,Liyiping
+hello,this is Liyiping's first repo.
